@@ -1,0 +1,34 @@
+<div class="container">
+  <h2>All Tax Professionals and Their Slots</h2>
+
+  <div *ngFor="let pro of professionals" class="card">
+    <h3>{{ pro.name }}</h3>
+    <p><strong>Email:</strong> {{ pro.email }}</p>
+    <p><strong>Phone:</strong> {{ pro.phone }}</p>
+
+    <ng-container *ngIf="pro.incomeTaxFilingSpecialist || pro.corporateTaxConsultant || pro.investmentTaxPlanningAdvisor">
+      <p><strong>Specializations:</strong></p>
+      <ul>
+        <li *ngIf="pro.incomeTaxFilingSpecialist">Income Tax Filing Specialist</li>
+        <li *ngIf="pro.corporateTaxConsultant">Corporate Tax Consultant</li>
+        <li *ngIf="pro.investmentTaxPlanningAdvisor">Investment & Tax Planning Advisor</li>
+      </ul>
+    </ng-container>
+
+    <div class="slots-section">
+      <div>
+        <h4>Available Slots</h4>
+        <ul>
+          <li *ngFor="let slot of pro.availableSlotTimes">{{ slot }}</li>
+        </ul>
+      </div>
+
+      <div>
+        <h4>Booked Slots</h4>
+        <ul>
+          <li *ngFor="let slot of pro.bookedSlotTimes">{{ slot }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

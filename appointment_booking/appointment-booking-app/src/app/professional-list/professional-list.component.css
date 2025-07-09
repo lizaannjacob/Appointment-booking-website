@@ -1,0 +1,56 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-left: 6px solid #007bff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pro-header h3 {
+  margin: 0;
+  color: #333;
+}
+
+.pro-header p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.specializations ul,
+.slots-section ul {
+  padding-left: 20px;
+  margin-top: 5px;
+}
+
+.specializations li,
+.slots-section li {
+  margin: 3px 0;
+}
+
+.slots-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 15px;
+}
+
+h4 {
+  margin-bottom: 5px;
+  color: #007bff;
+}
+
+

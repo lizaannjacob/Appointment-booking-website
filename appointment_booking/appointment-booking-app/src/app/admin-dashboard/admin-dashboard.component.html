@@ -1,0 +1,73 @@
+<div class="admin-dashboard">
+  <h2>Add Tax Professional</h2>
+
+  <div class="header-buttons">
+    <button class="left-btn" (click)="goToProfessionalList()">List of Professionals</button>
+    <button class="right-btn" (click)="logout()">Logout</button>
+  </div>
+
+  <form (ngSubmit)="addTaxPro()">
+    <input type="text" [(ngModel)]="newTaxPro.name" name="name" placeholder="Name" required />
+
+    <h4>Specialization:</h4>
+    <label>
+      <input type="checkbox" [(ngModel)]="newTaxPro.incomeTaxFilingSpecialist" name="incomeTaxFilingSpecialist" />
+      Income Tax Filing Specialist
+    </label><br />
+    <label>
+      <input type="checkbox" [(ngModel)]="newTaxPro.corporateTaxConsultant" name="corporateTaxConsultant" />
+      Corporate Tax Consultant
+    </label><br />
+    <label>
+      <input type="checkbox" [(ngModel)]="newTaxPro.investmentTaxPlanningAdvisor" name="investmentTaxPlanningAdvisor" />
+      Investment & Tax Planning Advisor
+    </label><br />
+
+    <input type="email" [(ngModel)]="newTaxPro.email" name="email" placeholder="Email" required />
+    <input type="text" [(ngModel)]="newTaxPro.phone" name="phone" placeholder="Phone" required />
+    <button type="submit">Add</button>
+  </form>
+
+  <hr />
+
+  <h2>Set Availability</h2>
+
+  <label>Select Tax Pro:</label>
+  <select [(ngModel)]="selectedTaxProId" name="selectedTaxProId" required>
+    <option [ngValue]="null" disabled selected>Select one</option>
+    <option *ngFor="let pro of taxPros" [ngValue]="pro.id">{{ pro.name }}</option>
+  </select>
+
+  <label>Select Date:</label>
+  <input type="date" [(ngModel)]="slotDate" name="slotDate" required />
+
+  <label>Start Time:</label>
+  <input type="time" [(ngModel)]="startTime" name="startTime" required />
+
+  <label>End Time:</label>
+  <input type="time" [(ngModel)]="endTime" name="endTime" required />
+
+  <button type="button" (click)="generateSlots()">Generate Time Slots</button>
+
+  <hr />
+
+  <h3 *ngIf="selectedTaxProId !== null && slots[selectedTaxProId]?.length">Time Slots for {{ getSelectedTaxProName() }}</h3>
+
+  <table *ngIf="selectedTaxProId !== null && slots[selectedTaxProId]?.length" border="1">
+    <tr>
+      <th>Start Time</th>
+      <th>End Time</th>
+      <th>Status</th>
+      <th>Actions</th>
+    </tr>
+    <tr *ngFor="let slot of slots[selectedTaxProId]">
+      <td>{{ slot.slotStart | date: 'short' }}</td>
+      <td>{{ slot.slotEnd | date: 'shortTime' }}</td>
+      <td>{{ slot.status }}</td>
+      <td>
+        <button (click)="deleteSlotFromDB(slot.slotId)">Delete</button>
+        <button *ngIf="slot.status === 'booked'" (click)="updateSlotStatus(slot.slotId, 'available')">Mark as Available</button>
+      </td>
+    </tr>
+  </table>
+</div>

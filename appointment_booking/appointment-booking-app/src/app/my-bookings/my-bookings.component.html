@@ -1,0 +1,19 @@
+<div class="my-bookings-container">
+  <div class="header">
+    <h2>My Booked Appointments</h2>
+    <button class="btn back-btn" (click)="goBack()">← Back to Dashboard</button>
+  </div>
+
+  <div *ngIf="bookedAppointments.length === 0" class="empty">
+    <p>You have no booked appointments yet.</p>
+  </div>
+
+  <div *ngIf="bookedAppointments.length > 0" class="appointment-list">
+    <div *ngFor="let appt of bookedAppointments" class="appointment-card">
+      <h3>{{ appt.professionalName }}</h3>
+      <p><strong>Date:</strong> {{ appt.slotStart | date: 'fullDate' }}</p>
+      <p><strong>Time:</strong> {{ appt.slotStart | date: 'shortTime' }} - {{ appt.slotEnd | date: 'shortTime' }}</p>
+      <p><strong>Status:</strong> <span [ngClass]="appt.status">{{ appt.status | titlecase }}</span></p>
+    </div>
+  </div>
+</div>

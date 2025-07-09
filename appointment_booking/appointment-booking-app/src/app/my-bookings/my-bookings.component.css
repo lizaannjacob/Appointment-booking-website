@@ -1,0 +1,63 @@
+.my-bookings-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.back-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background-color: #0056b3;
+}
+
+.appointment-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.appointment-card {
+  padding: 20px;
+  background: #ffffff;
+  border-left: 5px solid #007bff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.appointment-card h3 {
+  margin-top: 0;
+  color: #343a40;
+}
+
+span.booked {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+span.available {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.empty {
+  text-align: center;
+  color: #6c757d;
+}

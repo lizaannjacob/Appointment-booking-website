@@ -1,0 +1,123 @@
+.admin-dashboard {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 40px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, h3, h4 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+form, label, input, select, button {
+  width: 100%;
+  max-width: 600px;
+  margin: 10px auto;
+  display: block;
+}
+
+input, select {
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+label {
+  font-weight: 600;
+  color: #444;
+  margin-top: 15px;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.header-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  gap: 10px;
+}
+
+.header-buttons button {
+  flex: 1;
+  max-width: 200px;
+  font-size: 15px;
+  padding: 12px;
+  background-color: #17a2b8;
+}
+
+.header-buttons .right-btn {
+  background-color: #dc3545;
+}
+
+.header-buttons button:hover {
+  opacity: 0.9;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+  font-size: 15px;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+table th {
+  background-color: #f1f3f5;
+  color: #333;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.specializations {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 10px auto 20px;
+  max-width: 600px;
+}
+
+.specializations label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 500;
+}
+
+hr {
+  margin: 40px 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}

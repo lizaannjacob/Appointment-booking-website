@@ -1,0 +1,47 @@
+<div class="user-dashboard dashboard-container">
+  <!-- Header with Title and Buttons -->
+  <div class="header">
+    <h2>Book Appointment</h2>
+    <div>
+      <button class="btn my-bookings-btn" (click)="goToMyBookings()">My Bookings</button>
+      <button class="btn logout-btn" (click)="logout()">Logout</button>
+    </div>
+  </div>
+
+  <!-- Select Tax Professional -->
+  <div class="form-group">
+    <label for="taxPro">Select Tax Professional:</label>
+    <select
+      [(ngModel)]="selectedTaxProId"
+      (change)="loadSlotsForSelectedProfessional()"
+      name="taxPro"
+      id="taxPro"
+      required
+    >
+      <option [ngValue]="null" disabled [selected]="!selectedTaxProId">Select one</option>
+      <option *ngFor="let pro of taxPros" [ngValue]="pro?.id">{{ pro?.name }}</option>
+    </select>
+  </div>
+
+  <!-- Available Slots -->
+  <div *ngIf="availableSlots?.length > 0">
+    <h3>Available Slots</h3>
+    <ul>
+      <li *ngFor="let slot of availableSlots">
+        {{ slot.slotStart | date: 'medium' }} - {{ slot.status }}
+        <button
+          class="btn"
+          (click)="bookSlot(slot.slotId, selectedTaxProName(), slot.slotStart)"
+          [disabled]="slot.status !== 'available'"
+        >
+          Book
+        </button>
+      </li>
+    </ul>
+  </div>
+
+  <!-- No Slots -->
+  <div *ngIf="selectedTaxProId && availableSlots?.length === 0">
+    <p>No available slots for this tax professional.</p>
+  </div>
+</div>

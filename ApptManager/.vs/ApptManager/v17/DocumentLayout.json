@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91807\\source\\repos\\ApptManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\repository\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\apptmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\91807\\source\\repos\\apptmanager\\apptmanager\\apptmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\AdminService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\AdminService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAiwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:19:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\UserService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\UserService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:48:59.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:47:58.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvailabilitySlot.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\AvailabilitySlot.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
+              "RelativeToolTip": "ApptManager\\Models\\AvailabilitySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:15:37.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvailabilitySlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:58:05.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxProfessionalWithSlots.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "RelativeToolTip": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:16:18.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:18:32.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ApptManager\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:29:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAvailabilitySlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:55:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITaxProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:18:15.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:47:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApptManager\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:16:02.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Program.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Program.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Program.cs",
+              "RelativeToolTip": "ApptManager\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:18:58.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:20:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SlotWithProfessional.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\SlotWithProfessional.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
+              "RelativeToolTip": "ApptManager\\Models\\SlotWithProfessional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:15:30.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaxProfessional.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessional.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
+              "RelativeToolTip": "ApptManager\\Models\\TaxProfessional.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:12:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Services\\IUserService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:48:29.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRegistrationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\UserRegistrationInfo.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
+              "RelativeToolTip": "ApptManager\\Models\\UserRegistrationInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:07:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentSlotDto.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\AppointmentSlotDto.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
+              "RelativeToolTip": "ApptManager\\Models\\AppointmentSlotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:46:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\LoginRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:23:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\ILoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:22:07.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDatabaseOperations.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IDatabaseOperations.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IDatabaseOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:44:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseOperations.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\DatabaseOperations.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\DatabaseOperations.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wDIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:45:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "ApptManager\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:38:38.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ApptManager\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:16:05.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginInfo.cs",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
+              "RelativeToolTip": "ApptManager\\Models\\LoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:15:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ApptManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\appsettings.json",
+              "RelativeToolTip": "ApptManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T04:48:48.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApptManager",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "RelativeDocumentMoniker": "ApptManager\\ApptManager.csproj",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "RelativeToolTip": "ApptManager\\ApptManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T04:07:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApptManager.http",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.http",
+              "RelativeDocumentMoniker": "ApptManager\\ApptManager.http",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.http",
+              "RelativeToolTip": "ApptManager\\ApptManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-18T09:43:53.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApptManager.csproj",
+              "DocumentMoniker": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "RelativeDocumentMoniker": "ApptManager\\ApptManager.csproj",
+              "ToolTip": "C:\\Users\\91807\\source\\repos\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "RelativeToolTip": "ApptManager\\ApptManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T11:18:01.252Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
