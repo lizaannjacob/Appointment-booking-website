@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/TaxProfessional"
+                "$ref": "#/components/schemas/TaxProfessionalDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/TaxProfessional"
+                "$ref": "#/components/schemas/TaxProfessionalDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/TaxProfessional"
+                "$ref": "#/components/schemas/TaxProfessionalDto"
               }
             }
           }
@@ -180,17 +180,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegistrationInfo"
+                "$ref": "#/components/schemas/UserRegistrationDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegistrationInfo"
+                "$ref": "#/components/schemas/UserRegistrationDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegistrationInfo"
+                "$ref": "#/components/schemas/UserRegistrationDto"
               }
             }
           }
@@ -321,20 +321,25 @@
   "components": {
     "schemas": {
       "LoginRequest": {
+        "required": [
+          "email",
+          "password"
+        ],
         "type": "object",
         "properties": {
           "email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "password": {
-            "type": "string",
-            "nullable": true
+            "minLength": 8,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
-      "TaxProfessional": {
+      "TaxProfessionalDto": {
         "type": "object",
         "properties": {
           "id": {
@@ -347,16 +352,13 @@
           },
           "email": {
             "type": "string",
+            "format": "email",
             "nullable": true
           },
           "phone": {
             "type": "string",
+            "format": "tel",
             "nullable": true
-          },
-          "contactNumber": {
-            "type": "string",
-            "nullable": true,
-            "readOnly": true
           },
           "incomeTaxFilingSpecialist": {
             "type": "boolean"
@@ -370,7 +372,7 @@
         },
         "additionalProperties": false
       },
-      "UserRegistrationInfo": {
+      "UserRegistrationDto": {
         "required": [
           "email",
           "firstName",
@@ -391,18 +393,20 @@
           },
           "email": {
             "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "format": "email"
           },
           "phoneNumber": {
+            "minLength": 1,
+            "type": "string",
+            "format": "tel"
+          },
+          "role": {
             "minLength": 1,
             "type": "string"
           },
           "password": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "role": {
-            "minLength": 1,
+            "minLength": 8,
             "type": "string"
           },
           "isEmailVerified": {

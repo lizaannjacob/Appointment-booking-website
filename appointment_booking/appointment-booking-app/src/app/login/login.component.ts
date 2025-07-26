@@ -22,7 +22,7 @@ export class LoginComponent {
   constructor(private http: HttpClient, private router: Router) {}
 
   onSubmit() {
-    this.http.post('https://localhost:7005/api/user/login', {
+    this.http.post('http://localhost:7005/api/user/login', {
       email: this.form.email,
       password: this.form.password
     }).subscribe({

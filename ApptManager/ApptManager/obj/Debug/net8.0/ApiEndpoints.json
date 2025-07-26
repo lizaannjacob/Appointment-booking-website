@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "professional",
-        "Type": "ApptManager.Models.TaxProfessional",
+        "Name": "dto",
+        "Type": "ApptManager.Dtos.TaxProfessionalDto",
         "IsRequired": true
       }
     ],
@@ -115,7 +115,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "GetAvailableSlots",
     "RelativePath": "api/user/available-slots",
     "HttpMethod": "GET",
@@ -125,7 +125,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "GetAvailableSlotsByProfessional",
     "RelativePath": "api/user/available-slots-by-professional",
     "HttpMethod": "GET",
@@ -141,7 +141,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "BookSlot",
     "RelativePath": "api/user/book-slot",
     "HttpMethod": "PUT",
@@ -162,7 +162,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/user/login",
     "HttpMethod": "POST",
@@ -178,7 +178,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "GetBookedSlotsByEmail",
     "RelativePath": "api/user/my-appointments",
     "HttpMethod": "GET",
@@ -194,7 +194,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "ApptManager.Controllers.UserController",
     "Method": "Register",
     "RelativePath": "api/user/register",
     "HttpMethod": "POST",
@@ -202,8 +202,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "ApptManager.Models.UserRegistrationInfo",
+        "Name": "userDto",
+        "Type": "ApptManager.Dtos.UserRegistrationDto",
         "IsRequired": true
       }
     ],

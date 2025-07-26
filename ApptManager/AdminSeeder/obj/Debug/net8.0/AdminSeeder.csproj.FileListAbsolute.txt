@@ -1,0 +1,14 @@
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\bin\Debug\net8.0\AdminSeeder.exe
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\bin\Debug\net8.0\AdminSeeder.deps.json
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\bin\Debug\net8.0\AdminSeeder.runtimeconfig.json
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\bin\Debug\net8.0\AdminSeeder.dll
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\bin\Debug\net8.0\AdminSeeder.pdb
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.AssemblyInfoInputs.cache
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.AssemblyInfo.cs
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.csproj.CoreCompileInputs.cache
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.dll
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\refint\AdminSeeder.dll
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.pdb
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\AdminSeeder.genruntimeconfig.cache
+C:\Users\a2832849\Downloads\Appointment-booking-website-master\Appointment-booking-website-master\ApptManager\AdminSeeder\obj\Debug\net8.0\ref\AdminSeeder.dll

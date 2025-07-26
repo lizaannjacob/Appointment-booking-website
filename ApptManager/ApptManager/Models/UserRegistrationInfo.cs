@@ -5,7 +5,7 @@ namespace ApptManager.Models
 {
     public class UserRegistrationInfo
     {
-        [JsonIgnore] // ✅ This hides it from Swagger and model binding
+        [JsonIgnore] 
         public int UserId { get; set; }
 
         [Required]

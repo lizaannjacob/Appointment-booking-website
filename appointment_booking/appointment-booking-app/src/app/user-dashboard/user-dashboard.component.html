@@ -1,5 +1,5 @@
 <div class="user-dashboard dashboard-container">
-  <!-- Header with Title and Buttons -->
+  <!-- Header -->
   <div class="header">
     <h2>Book Appointment</h2>
     <div>
@@ -8,7 +8,7 @@
     </div>
   </div>
 
-  <!-- Select Tax Professional -->
+  <!-- Professional Dropdown -->
   <div class="form-group">
     <label for="taxPro">Select Tax Professional:</label>
     <select
@@ -19,7 +19,7 @@
       required
     >
       <option [ngValue]="null" disabled [selected]="!selectedTaxProId">Select one</option>
-      <option *ngFor="let pro of taxPros" [ngValue]="pro?.id">{{ pro?.name }}</option>
+      <option *ngFor="let pro of taxPros" [ngValue]="pro.id">{{ pro.name }}</option>
     </select>
   </div>
 
@@ -40,7 +40,7 @@
     </ul>
   </div>
 
-  <!-- No Slots -->
+  <!-- No Slots Message -->
   <div *ngIf="selectedTaxProId && availableSlots?.length === 0">
     <p>No available slots for this tax professional.</p>
   </div>

@@ -15,7 +15,7 @@ export class ProfessionalListComponent implements OnInit {
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
-    this.http.get<any[]>('https://localhost:7005/api/admin/all-slot-details')
+    this.http.get<any[]>('http://localhost:7005/api/admin/all-slot-details')
       .subscribe({
         next: (data) => {
           this.professionals = data;

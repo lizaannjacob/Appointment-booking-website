@@ -62,10 +62,9 @@ export class SignupComponent {
       next: (res: any) => {
         console.log('✅ User registered successfully:', res);
 
-        // ✅ Store user email in localStorage
         localStorage.setItem('userEmail', this.form.email);
 
-        // Redirect after successful signup
+      
         this.router.navigate(['/register-success']);
       },
       error: (err: any) => {

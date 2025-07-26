@@ -28,7 +28,7 @@ export class MyBookingsComponent implements OnInit {
   }
 
   fetchBookings() {
-    this.http.get<any[]>(`https://localhost:7005/api/user/my-appointments?email=${this.userEmail}`)
+    this.http.get<any[]>(`http://localhost:7005/api/user/my-appointments?email=${this.userEmail}`)
       .subscribe({
         next: data => {
           this.bookedAppointments = data;

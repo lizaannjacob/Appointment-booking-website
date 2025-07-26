@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91807\\source\\repos\\ApptManager\\AdminSeeder\\AdminSeeder.csproj": {}
+    "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91807\\source\\repos\\ApptManager\\AdminSeeder\\AdminSeeder.csproj": {
+    "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91807\\source\\repos\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
+        "projectUniqueName": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
         "projectName": "AdminSeeder",
-        "projectPath": "C:\\Users\\91807\\source\\repos\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
-        "packagesPath": "C:\\Users\\91807\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91807\\source\\repos\\ApptManager\\AdminSeeder\\obj\\",
+        "projectPath": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
+        "packagesPath": "C:\\Users\\a2832849\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\91807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a2832849\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

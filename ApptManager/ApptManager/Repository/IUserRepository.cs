@@ -16,6 +16,4 @@ public interface IUserRepository
 
     Task<IEnumerable<AvailabilitySlot>> GetBookedSlotsByUserEmailAsync(string email);
 
-
-
 }

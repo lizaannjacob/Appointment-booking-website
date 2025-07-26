@@ -1,7 +1,9 @@
 ﻿using ApptManager.Repository;
 using ApptManager.Services;
+using ApptManager.Mapping;
 using Microsoft.Extensions.Configuration;
 using System.Data;
+using AutoMapper;
 using System.Data.SqlClient;
 using ApptManager.Models;
 
@@ -17,6 +19,8 @@ var configuration = builder.Configuration;
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+
 
 // ✅ Dependency Injection
 builder.Services.AddScoped<IDatabaseOperations, DatabaseOperations>();

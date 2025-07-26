@@ -25,13 +25,15 @@ interface Slot {
 @Component({
   selector: 'app-admin-dashboard',
   standalone: true,
-  imports: [CommonModule, FormsModule, HttpClientModule],
+  imports: [CommonModule, FormsModule, HttpClientModule, CommonModule],
   templateUrl: './admin-dashboard.component.html',
   styleUrls: ['./admin-dashboard.component.css']
 })
 export class AdminDashboardComponent implements OnInit {
   taxPros: TaxProfessional[] = [];
-  selectedTaxProId: number | null = null;
+  selectedTaxPro: TaxProfessional | null = null;
+  //selectedTaxProId: number | null = null;
+  name: string = '';
   startTime: string = '';
   endTime: string = '';
   slotDate: string = '';
@@ -47,28 +49,32 @@ export class AdminDashboardComponent implements OnInit {
     investmentTaxPlanningAdvisor: false
   };
 
-  constructor(private http: HttpClient, private router: Router) {}
+
+
+  constructor(private http: HttpClient, private router: Router) { }
 
   ngOnInit(): void {
     this.loadProfessionals();
   }
 
   loadProfessionals() {
-    this.http.get<TaxProfessional[]>('https://localhost:7005/api/admin/get-professionals')
+    this.http.get<TaxProfessional[]>('http://localhost:7005/api/admin/get-professionals')
       .subscribe({
         next: (data) => {
           this.taxPros = data;
+          console.log('Loaded professionals:', this.taxPros);
         },
         error: (err) => {
           console.error('Failed to load professionals:', err);
         }
       });
+    //console.log(this.selectedTaxProId);
   }
 
   addTaxPro() {
     const { id, ...professionalData } = this.newTaxPro;
 
-    this.http.post('https://localhost:7005/api/admin/add-professional', professionalData)
+    this.http.post('http://localhost:7005/api/admin/add-professional', professionalData)
       .subscribe({
         next: () => {
           alert('Tax professional added successfully!');
@@ -92,25 +98,32 @@ export class AdminDashboardComponent implements OnInit {
   }
 
   getSelectedTaxProName(): string {
-    const selectedPro = this.taxPros.find(p => p.id === this.selectedTaxProId);
-    return selectedPro ? selectedPro.name : 'Unknown';
+    return this.selectedTaxPro ? this.selectedTaxPro.name : 'Unknown';
   }
 
   generateSlots() {
-    if (!this.selectedTaxProId || !this.startTime || !this.endTime || !this.slotDate) {
+    if (!this.selectedTaxPro || !this.selectedTaxPro.id || !this.startTime || !this.endTime || !this.slotDate) {
       alert('Please select tax professional, slot date and time range.');
+      console.log('Professional:', this.selectedTaxPro);
+      console.log('Start:', this.startTime, 'End:', this.endTime, 'Date:', this.slotDate);
       return;
     }
 
     const start = `${this.slotDate}T${this.startTime}`;
     const end = `${this.slotDate}T${this.endTime}`;
+    const professionalId = this.selectedTaxPro.id;
 
-    const url = `https://localhost:7005/api/admin/generate-slots?professionalId=${this.selectedTaxProId}&startTime=${start}&endTime=${end}`;
+    console.log('Selected ID:', professionalId);
+    console.log('Name:', this.selectedTaxPro.name);
+    console.log('Start:', start);
+    console.log('End:', end);
+
+    const url = `http://localhost:7005/api/admin/generate-slots?professionalId=${professionalId}&startTime=${start}&endTime=${end}`;
 
     this.http.post(url, {}).subscribe({
       next: () => {
         alert('Slots generated and stored in database!');
-        this.getSlots(); // ✅ Load slots after generation
+        this.getSlots();
       },
       error: err => {
         console.error('Error generating slots:', err);
@@ -120,12 +133,15 @@ export class AdminDashboardComponent implements OnInit {
   }
 
   getSlots() {
-    if (!this.selectedTaxProId) return;
+    if (!this.selectedTaxPro) return;
 
-    this.http.get<Slot[]>(`https://localhost:7005/api/admin/get-slots?professionalId=${this.selectedTaxProId}`)
+    this.http.get<Slot[]>(`http://localhost:7005/api/admin/get-slots?professionalId=${this.selectedTaxPro.id}`)
       .subscribe({
         next: (data) => {
-          this.slots[this.selectedTaxProId!] = data;
+          if (this.selectedTaxPro && this.selectedTaxPro.id != null) {
+            this.slots[this.selectedTaxPro.id] = data;
+          }
+
         },
         error: err => {
           console.error('Failed to fetch slots:', err);
@@ -133,8 +149,9 @@ export class AdminDashboardComponent implements OnInit {
       });
   }
 
+
   updateSlotStatus(slotId: number, status: string) {
-    const url = `https://localhost:7005/api/admin/update-slot-status?slotId=${slotId}&status=${status}`;
+    const url = `http://localhost:7005/api/admin/update-slot-status?slotId=${slotId}&status=${status}`;
     this.http.put(url, {}).subscribe({
       next: () => {
         alert('Slot status updated');
@@ -147,7 +164,7 @@ export class AdminDashboardComponent implements OnInit {
   }
 
   deleteSlotFromDB(slotId: number) {
-    this.http.delete(`https://localhost:7005/api/admin/delete-slot?slotId=${slotId}`).subscribe({
+    this.http.delete(`http://localhost:7005/api/admin/delete-slot?slotId=${slotId}`).subscribe({
       next: () => {
         alert('Slot deleted');
         this.getSlots(); // Refresh

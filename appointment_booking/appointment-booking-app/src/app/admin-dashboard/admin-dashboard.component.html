@@ -33,10 +33,10 @@
   <h2>Set Availability</h2>
 
   <label>Select Tax Pro:</label>
-  <select [(ngModel)]="selectedTaxProId" name="selectedTaxProId" required>
-    <option [ngValue]="null" disabled selected>Select one</option>
-    <option *ngFor="let pro of taxPros" [ngValue]="pro.id">{{ pro.name }}</option>
+  <select [(ngModel)]="selectedTaxPro">
+    <option *ngFor="let pro of taxPros" [ngValue]="pro">{{ pro.name }}</option>
   </select>
+
 
   <label>Select Date:</label>
   <input type="date" [(ngModel)]="slotDate" name="slotDate" required />
@@ -51,22 +51,25 @@
 
   <hr />
 
-  <h3 *ngIf="selectedTaxProId !== null && slots[selectedTaxProId]?.length">Time Slots for {{ getSelectedTaxProName() }}</h3>
+  <h3 *ngIf="selectedTaxPro && selectedTaxPro.id !== null && slots[selectedTaxPro.id]?.length">Time Slots for {{
+    getSelectedTaxProName() }}
+  </h3>
 
-  <table *ngIf="selectedTaxProId !== null && slots[selectedTaxProId]?.length" border="1">
+  <table *ngIf="selectedTaxPro && selectedTaxPro.id !== null && slots[selectedTaxPro.id]?.length" border="1">
     <tr>
       <th>Start Time</th>
       <th>End Time</th>
       <th>Status</th>
       <th>Actions</th>
     </tr>
-    <tr *ngFor="let slot of slots[selectedTaxProId]">
+    <tr *ngFor="let slot of slots[selectedTaxPro.id]">
       <td>{{ slot.slotStart | date: 'short' }}</td>
       <td>{{ slot.slotEnd | date: 'shortTime' }}</td>
       <td>{{ slot.status }}</td>
       <td>
         <button (click)="deleteSlotFromDB(slot.slotId)">Delete</button>
-        <button *ngIf="slot.status === 'booked'" (click)="updateSlotStatus(slot.slotId, 'available')">Mark as Available</button>
+        <button *ngIf="slot.status === 'booked'" (click)="updateSlotStatus(slot.slotId, 'available')">Mark as
+          Available</button>
       </td>
     </tr>
   </table>

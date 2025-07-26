@@ -19,7 +19,11 @@ interface TaxProfessional {
 @Component({
   selector: 'app-user-dashboard',
   standalone: true,
-  imports: [CommonModule, FormsModule, HttpClientModule],
+  imports: [
+    CommonModule,
+    FormsModule,
+    HttpClientModule
+  ],
   templateUrl: './user-dashboard.component.html',
   styleUrls: ['./user-dashboard.component.css']
 })
@@ -35,12 +39,8 @@ export class UserDashboardComponent implements OnInit {
     this.loadProfessionals();
   }
 
-  goToMyBookings(): void {
-    this.router.navigate(['/my-bookings']);
-  }
-
   loadProfessionals(): void {
-    this.http.get<TaxProfessional[]>('https://localhost:7005/api/admin/get-professionals')
+    this.http.get<TaxProfessional[]>('http://localhost:7005/api/admin/get-professionals')
       .subscribe({
         next: data => this.taxPros = data,
         error: err => console.error('Error loading professionals:', err)
@@ -50,7 +50,7 @@ export class UserDashboardComponent implements OnInit {
   loadSlotsForSelectedProfessional(): void {
     if (!this.selectedTaxProId) return;
 
-    this.http.get<Slot[]>(`https://localhost:7005/api/user/available-slots-by-professional?professionalId=${this.selectedTaxProId}`)
+    this.http.get<Slot[]>(`http://localhost:7005/api/user/available-slots-by-professional?professionalId=${this.selectedTaxProId}`)
       .subscribe({
         next: data => this.availableSlots = data,
         error: err => console.error('Error loading slots:', err)
@@ -58,12 +58,12 @@ export class UserDashboardComponent implements OnInit {
   }
 
   bookSlot(slotId: number, proName: string, time: string): void {
-    const url = `https://localhost:7005/api/user/book-slot?slotId=${slotId}&email=${encodeURIComponent(this.userEmail)}`;
+    const url = `http://localhost:7005/api/user/book-slot?slotId=${slotId}&email=${encodeURIComponent(this.userEmail)}`;
 
     this.http.put<{ message: string }>(url, {})
       .subscribe({
         next: response => {
-          if (response?.message === "Slot booked successfully") {
+          if (response?.message === 'Slot booked successfully') {
             this.router.navigate(['/appointment-success'], {
               queryParams: {
                 time: time,
@@ -84,6 +84,10 @@ export class UserDashboardComponent implements OnInit {
   selectedTaxProName(): string {
     const selectedPro = this.taxPros.find(p => p.id === this.selectedTaxProId);
     return selectedPro ? selectedPro.name : '';
+  }
+
+  goToMyBookings(): void {
+    this.router.navigate(['/my-bookings']);
   }
 
   logout(): void {

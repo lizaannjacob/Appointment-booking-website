@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67a50736-f4e2-4db2-800c-1c3d639b1cfc": {
+      "ProjectGuid": "67a50736-f4e2-4db2-800c-1c3d639b1cfc",
+      "DisplayName": "ApptManager",
+      "ColorIndex": 0
+    },
+    "d63498d4-0020-4bee-8b4e-b7261babe725": {
+      "ProjectGuid": "d63498d4-0020-4bee-8b4e-b7261babe725",
+      "DisplayName": "AdminSeeder",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

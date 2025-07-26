@@ -1,24 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace ApptManager.Models
 {
     public class TaxProfessionalWithSlots
     {
         public int Id { get; set; }
+
+        [Required]
         public string Name { get; set; }
+
+        [Required]
+        [EmailAddress]
         public string Email { get; set; }
+
+        [Required]
+        [Phone]
         public string Phone { get; set; }
 
         public bool IncomeTaxFilingSpecialist { get; set; }
         public bool CorporateTaxConsultant { get; set; }
         public bool InvestmentTaxPlanningAdvisor { get; set; }
 
-        // ✅ Needed for UserRepository & UserService
-        public List<AvailabilitySlot> Slots { get; set; } = new List<AvailabilitySlot>();
-
-        // ✅ Needed for AdminService
-        public List<string> AvailableSlotTimes { get; set; } = new List<string>();
-        public List<string> BookedSlotTimes { get; set; } = new List<string>();
+        public List<AvailabilitySlot> Slots { get; set; } = new();
+        public List<string> AvailableSlotTimes { get; set; } = new();
+        public List<string> BookedSlotTimes { get; set; } = new();
     }
 }
