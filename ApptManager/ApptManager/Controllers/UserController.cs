@@ -6,6 +6,7 @@ using AutoMapper;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Serilog;
 
 namespace ApptManager.Controllers
 {
@@ -15,21 +16,28 @@ namespace ApptManager.Controllers
     {
         private readonly IUserService _userService;
         private readonly IMapper _mapper;
+        private readonly ILogger<UserController> _logger;
 
-        public UserController(IUserService userService, IMapper mapper)
+        public UserController(IUserService userService, IMapper mapper, ILogger<UserController> logger)
         {
             _userService = userService;
             _mapper = mapper;
+            _logger = logger;
         }
 
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserRegistrationDto userDto)
         {
+            _logger.LogInformation("Registering user: {Email}", userDto.Email);
             var user = _mapper.Map<UserRegistrationInfo>(userDto);
             var success = await _userService.RegisterUserAsync(user);
-            return success
-                ? Ok(new { message = "User registered successfully" })
-                : BadRequest(new { message = "Registration failed" });
+            if (success)
+            {
+               Log.Information("User registered successfully: {Email}", userDto.Email);
+                return Ok(new { message = "User registered successfully" });
+            }
+            _logger.LogWarning("User registration failed: {Email}", userDto.Email);
+            return BadRequest(new { message = "Registration failed" });
         }
 
         [HttpPost("login")]
@@ -37,7 +45,10 @@ namespace ApptManager.Controllers
         {
             var role = await _userService.LoginAsync(request.Email, request.Password);
             if (role == null)
+            {
+                Log.Error("Invalid email or password");
                 return Unauthorized("Invalid email or password");
+            }
 
             return Ok(new
             {

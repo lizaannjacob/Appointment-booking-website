@@ -1,11 +1,14 @@
-﻿using ApptManager.Repository;
-using ApptManager.Services;
+﻿using ApptManager.Filters;
 using ApptManager.Mapping;
-using Microsoft.Extensions.Configuration;
-using System.Data;
-using AutoMapper;
-using System.Data.SqlClient;
 using ApptManager.Models;
+using ApptManager.Repository;
+using ApptManager.Services;
+using AutoMapper;
+using AutoWrapper;
+using Microsoft.Extensions.Configuration;
+using Serilog;
+using System.Data;
+using System.Data.SqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,7 +33,14 @@ builder.Services.AddScoped<ILoginRepository, LoginRepository>();
 builder.Services.AddScoped<IAdminService, AdminService>();
 builder.Services.AddScoped<ITaxProfessionalRepository, TaxProfessionalRepository>();
 builder.Services.AddScoped<IAvailabilitySlotRepository, AvailabilitySlotRepository>();
+var log = new LoggerConfiguration().WriteTo.File("C:\\OneDrive - H&R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Logs\\log.txt", rollingInterval: RollingInterval.Day).CreateLogger();
+Log.Logger = log;
 
+
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add<CustomExceptionFilter>(); // add global filter
+});
 
 
 // ✅ Inject IDbConnection after configuration is ready
@@ -61,6 +71,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+//middleware for exception handling
+app.UseMiddleware<ExceptionHandlingMiddleware>();
+
+app.UseApiResponseAndExceptionWrapper();
 app.UseHttpsRedirection();
 app.UseCors("AllowAngularApp");
 app.UseAuthorization();

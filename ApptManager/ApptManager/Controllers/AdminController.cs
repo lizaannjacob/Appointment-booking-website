@@ -16,21 +16,28 @@ namespace ApptManager.Controllers
     {
         private readonly IAdminService _adminService;
         private readonly IMapper _mapper;
+        private readonly ILogger<AdminController> _logger;
 
-        public AdminController(IAdminService adminService, IMapper mapper)
+        public AdminController(IAdminService adminService, IMapper mapper, ILogger<AdminController> logger)
         {
             _adminService = adminService;
             _mapper = mapper;
+            _logger = logger;
         }
 
         [HttpPost("add-professional")]
         public async Task<IActionResult> AddProfessional([FromBody] TaxProfessionalDto dto)
         {
+            _logger.LogInformation("Adding professional: {@Professional}", dto);
             var professional = _mapper.Map<TaxProfessional>(dto);
             bool result = await _adminService.AddProfessionalAsync(professional);
-            return result
-                ? Ok(new { message = "Professional added successfully" })
-                : BadRequest(new { message = "Failed to add professional" });
+            if (result)
+            {
+                _logger.LogInformation("Successfully added professional: {Email}", dto.Email);
+                return Ok(new { message = "Professional added successfully" });
+            }
+            _logger.LogWarning("Failed to add professional: {Email}", dto.Email);
+            return BadRequest(new { message = "Failed to add professional" });
         }
 
         [HttpPost("generate-slots")]

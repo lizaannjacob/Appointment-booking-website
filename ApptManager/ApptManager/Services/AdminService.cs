@@ -12,15 +12,18 @@ namespace ApptManager.Services
     {
         private readonly ITaxProfessionalRepository _taxRepo;
         private readonly IAvailabilitySlotRepository _slotRepo;
+        private readonly ILogger<AdminService> _logger;
 
-        public AdminService(ITaxProfessionalRepository taxRepo, IAvailabilitySlotRepository slotRepo)
+        public AdminService(ITaxProfessionalRepository taxRepo, IAvailabilitySlotRepository slotRepo, ILogger<AdminService> logger)
         {
             _taxRepo = taxRepo;
             _slotRepo = slotRepo;
+            _logger = logger;
         }
 
         public async Task<bool> AddProfessionalAsync(TaxProfessional professional)
         {
+            _logger.LogInformation("Adding professional to DB: {Email}", professional.Email);
             return await _taxRepo.AddTaxProfessionalAsync(professional);
         }
 
@@ -33,6 +36,7 @@ namespace ApptManager.Services
         {
             try
             {
+                _logger.LogInformation("Generating slots for ProfessionalId: {Id} from {Start} to {End}", professionalId, startTime, endTime);
                 DateTime current = startTime;
 
                 while (current < endTime)
@@ -51,10 +55,12 @@ namespace ApptManager.Services
                     current = next;
                 }
 
+                _logger.LogInformation("Slots generated successfully for ProfessionalId: {Id}", professionalId);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError(ex, "Failed to generate slots for ProfessionalId: {Id}", professionalId);
                 return false;
             }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
+      "projectUniqueName": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
       "projectName": "AdminSeeder",
-      "projectPath": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
+      "projectPath": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\AdminSeeder\\AdminSeeder.csproj",
       "packagesPath": "C:\\Users\\a2832849\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\AdminSeeder\\obj\\",
+      "outputPath": "C:\\OneDrive - H&R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\AdminSeeder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

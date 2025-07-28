@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminSeeder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50093d4c90a04f62c009ac67213f66b166a1993")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminSeeder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminSeeder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

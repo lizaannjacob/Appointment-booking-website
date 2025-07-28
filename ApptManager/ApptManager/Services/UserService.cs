@@ -9,16 +9,21 @@ namespace ApptManager.Services
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepo;
+        private readonly ILogger<UserService> _logger;
 
-        public UserService(IUserRepository userRepo)
+        public UserService(IUserRepository userRepo, ILogger<UserService> logger)
         {
             _userRepo = userRepo;
+            _logger = logger;
         }
 
         public async Task<bool> RegisterUserAsync(UserRegistrationInfo user)
         {
+            _logger.LogInformation("Registering user: {Email}", user.Email);
             int userId = await _userRepo.InsertUserAsync(user);
-            return await _userRepo.InsertLoginAsync(user.Email, user.Password, user.Role);
+            var result = await _userRepo.InsertLoginAsync(user.Email, user.Password, user.Role);
+            _logger.LogInformation("Inserted login info for: {Email} Result: {Result}", user.Email, result);
+            return result;
         }
 
         public async Task<string> LoginAsync(string email, string password)

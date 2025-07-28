@@ -1,0 +1,19 @@
+# === Visual Studio ===
+.vs/
+*.user
+*.suo
+
+# === Build output ===
+bin/
+obj/
+*.log
+
+# === ASP.NET ===
+*.db
+*.db-shm
+*.db-wal
+
+# === Angular ===
+node_modules/
+dist/
+.env

@@ -1,150 +1,170 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\",
+  "WorkspaceRootPath": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\taxprofessionalwithslotsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\taxprofessionalwithslotsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\slotwithprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\slotwithprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\availabilityslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\availabilityslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\taxprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\taxprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\repository\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\logs\\log20250728.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\logs\\log20250728.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\users\\a2832849\\downloads\\appointment-booking-website-master\\appointment-booking-website-master\\apptmanager\\apptmanager\\apptmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\availabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iavailabilityslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\itaxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\taxprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\apptmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\idatabaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\taxprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\taxprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\taxprofessionalwithslotsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\taxprofessionalwithslotsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\slotwithprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\slotwithprofessionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\availabilityslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\availabilityslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessionalwithslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\taxprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\slotwithprofessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\availabilityslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\appointmentslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\models\\userregistrationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|c:\\onedrive - h\u0026r block ltd\\documents\\taxappointment\\appointment-booking-website\\apptmanager\\apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67A50736-F4E2-4DB2-800C-1C3D639B1CFC}|ApptManager\\ApptManager.csproj|solutionrelative:apptmanager\\apptmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,84 +174,149 @@
       "DocumentGroups": [
         {
           "DockedHeight": 256,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaxProfessionalWithSlotsDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ApptManager\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:22:51.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AvailabilitySlotDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\AvailabilitySlotDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\AvailabilitySlotDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\AvailabilitySlotDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\AvailabilitySlotDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:19:38.748Z",
+              "WhenOpened": "2025-07-28T05:18:11.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Helpers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "ApptManager\\Helpers\\MappingProfile.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA0AAAAAAAAAA==",
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ApptManager\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:30:10.887Z",
+              "WhenOpened": "2025-07-28T05:05:38.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "DatabaseOperations.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\DatabaseOperations.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\DatabaseOperations.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:45:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Program.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Program.cs",
               "RelativeDocumentMoniker": "ApptManager\\Program.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Program.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Program.cs",
               "RelativeToolTip": "ApptManager\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T15:18:58.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "log20250728.txt",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Logs\\log20250728.txt",
+              "RelativeDocumentMoniker": "ApptManager\\Logs\\log20250728.txt",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Logs\\log20250728.txt",
+              "RelativeToolTip": "ApptManager\\Logs\\log20250728.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-28T04:44:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ApptManager\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Controllers\\AdminController.cs",
               "RelativeToolTip": "ApptManager\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T04:29:47.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaxProfessionalDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\TaxProfessionalDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\TaxProfessionalDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\UserService.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\UserService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:22:21.116Z",
+              "WhenOpened": "2025-06-10T13:48:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\AdminService.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\AdminService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\AdminService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAiwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:19:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\LoginRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:23:40.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:49:58.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:48:45.371Z",
               "EditorCaption": ""
             },
             {
@@ -240,156 +325,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SlotWithProfessionalDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:21:53.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRegistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\UserRegistrationDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\UserRegistrationDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\UserRegistrationDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\UserRegistrationDto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:23:36.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Dtos\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Dtos\\LoginRequestDto.cs",
-              "RelativeToolTip": "ApptManager\\Dtos\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:20:40.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaxProfessionalWithSlots.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
-              "RelativeToolTip": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:16:18.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaxProfessional.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessional.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
-              "RelativeToolTip": "ApptManager\\Models\\TaxProfessional.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T12:12:16.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SlotWithProfessional.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\SlotWithProfessional.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
-              "RelativeToolTip": "ApptManager\\Models\\SlotWithProfessional.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Title": "AvailabilitySlotRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:15:30.475Z",
+              "WhenOpened": "2025-06-24T04:58:05.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "ApptManager\\Models\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Title": "IAvailabilitySlotRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T04:16:05.618Z",
+              "WhenOpened": "2025-06-24T04:55:10.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "LoginInfo.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginInfo.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
-              "RelativeToolTip": "ApptManager\\Models\\LoginInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Title": "ITaxProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:15:05.944Z",
+              "WhenOpened": "2025-06-24T04:18:15.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AvailabilitySlot.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\AvailabilitySlot.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
-              "RelativeToolTip": "ApptManager\\Models\\AvailabilitySlot.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\ILoginRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\ILoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:15:37.474Z",
+              "WhenOpened": "2025-06-19T10:22:07.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AppointmentSlotDto.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\AppointmentSlotDto.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
-              "RelativeToolTip": "ApptManager\\Models\\AppointmentSlotDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "TaxProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:46:11.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRegistrationInfo.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Models\\UserRegistrationInfo.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
-              "RelativeToolTip": "ApptManager\\Models\\UserRegistrationInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:07:52.656Z",
+              "WhenOpened": "2025-06-24T04:20:14.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IAdminService.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
               "RelativeDocumentMoniker": "ApptManager\\Services\\IAdminService.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\IAdminService.cs",
               "RelativeToolTip": "ApptManager\\Services\\IAdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:18:32.979Z",
               "EditorCaption": ""
@@ -397,131 +404,281 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\AdminService.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Services\\AdminService.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\AdminService.cs",
-              "RelativeToolTip": "ApptManager\\Services\\AdminService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAwAAAAvAAAAAAAAAA==",
+              "Title": "ApptManager.http",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\ApptManager.http",
+              "RelativeDocumentMoniker": "ApptManager\\ApptManager.http",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\ApptManager.http",
+              "RelativeToolTip": "ApptManager\\ApptManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-18T09:43:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Services\\IUserService.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Services\\IUserService.cs",
+              "RelativeToolTip": "ApptManager\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:19:51.625Z",
+              "WhenOpened": "2025-06-10T13:48:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDatabaseOperations.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IDatabaseOperations.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IDatabaseOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:44:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv5MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:47:58.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "IDatabaseOperations.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\IDatabaseOperations.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IDatabaseOperations.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\IDatabaseOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ApptManager\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T15:44:44.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AvailabilitySlotRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\AvailabilitySlotRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\AvailabilitySlotRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:58:05.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\UserService.cs",
-              "RelativeToolTip": "ApptManager\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:48:59.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ILoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\ILoginRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\ILoginRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\ILoginRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:22:07.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Services\\IUserService.cs",
-              "RelativeToolTip": "ApptManager\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:48:29.108Z"
+              "WhenOpened": "2025-06-10T13:47:30.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IAvailabilitySlotRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\IAvailabilitySlotRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAABSAAAAAAAAAA==",
+              "Title": "TaxProfessionalDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\TaxProfessionalDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\TaxProfessionalDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:55:10.855Z"
+              "WhenOpened": "2025-07-24T04:22:21.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApptManager\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:16:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaxProfessionalWithSlotsDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\TaxProfessionalWithSlotsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:22:51.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "ApptManager\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:30:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AvailabilitySlotDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\AvailabilitySlotDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\AvailabilitySlotDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\AvailabilitySlotDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\AvailabilitySlotDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:19:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SlotWithProfessionalDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\SlotWithProfessionalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:21:53.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\UserRegistrationDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:23:36.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Dtos\\LoginRequestDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Dtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "ApptManager\\Dtos\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:20:40.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaxProfessionalWithSlots.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "RelativeToolTip": "ApptManager\\Models\\TaxProfessionalWithSlots.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:16:18.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaxProfessional.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\TaxProfessional.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\TaxProfessional.cs",
+              "RelativeToolTip": "ApptManager\\Models\\TaxProfessional.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:12:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SlotWithProfessional.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\SlotWithProfessional.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\SlotWithProfessional.cs",
+              "RelativeToolTip": "ApptManager\\Models\\SlotWithProfessional.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:15:30.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ApptManager\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:16:05.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\LoginInfo.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\LoginInfo.cs",
+              "RelativeToolTip": "ApptManager\\Models\\LoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:15:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AvailabilitySlot.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\AvailabilitySlot.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\AvailabilitySlot.cs",
+              "RelativeToolTip": "ApptManager\\Models\\AvailabilitySlot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:15:37.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppointmentSlotDto.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\AppointmentSlotDto.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\AppointmentSlotDto.cs",
+              "RelativeToolTip": "ApptManager\\Models\\AppointmentSlotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:46:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRegistrationInfo.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
+              "RelativeDocumentMoniker": "ApptManager\\Models\\UserRegistrationInfo.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Models\\UserRegistrationInfo.cs",
+              "RelativeToolTip": "ApptManager\\Models\\UserRegistrationInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:07:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApptManager\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\Properties\\launchSettings.json",
               "RelativeToolTip": "ApptManager\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAMBdwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-24T04:43:07.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ApptManager\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:16:02.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:47:58.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\appsettings.json",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\appsettings.json",
               "RelativeDocumentMoniker": "ApptManager\\appsettings.json",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\appsettings.json",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\appsettings.json",
               "RelativeToolTip": "ApptManager\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -529,86 +686,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ITaxProfessionalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\ITaxProfessionalRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\ITaxProfessionalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:18:15.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:47:30.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TaxProfessionalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\TaxProfessionalRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\TaxProfessionalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T04:20:14.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\LoginRepository.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\LoginRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:23:40.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DatabaseOperations.cs",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
-              "RelativeDocumentMoniker": "ApptManager\\Repository\\DatabaseOperations.cs",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\Repository\\DatabaseOperations.cs",
-              "RelativeToolTip": "ApptManager\\Repository\\DatabaseOperations.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T15:45:44.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "ApptManager",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\ApptManager.csproj",
               "RelativeDocumentMoniker": "ApptManager\\ApptManager.csproj",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\ApptManager.csproj",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Documents\\TaxAppointment\\Appointment-booking-website\\ApptManager\\ApptManager\\ApptManager.csproj",
               "RelativeToolTip": "ApptManager\\ApptManager.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-22T04:07:06.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ApptManager.http",
-              "DocumentMoniker": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\ApptManager.http",
-              "RelativeDocumentMoniker": "ApptManager\\ApptManager.http",
-              "ToolTip": "C:\\Users\\a2832849\\Downloads\\Appointment-booking-website-master\\Appointment-booking-website-master\\ApptManager\\ApptManager\\ApptManager.http",
-              "RelativeToolTip": "ApptManager\\ApptManager.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-18T09:43:53.857Z"
+              "WhenOpened": "2025-06-22T04:07:06.047Z",
+              "EditorCaption": ""
             }
           ]
         },
